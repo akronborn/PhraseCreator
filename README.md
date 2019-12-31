@@ -6,7 +6,7 @@ Due to changes with Google clients and billing, credentials have been removed. S
 
 Live site: https://phrasebooktts.herokuapp.com/
 
-Packages: body-parser, express, ejs, gtts 
+Packages: body-parser, express, @google-cloud/text-to-speech, util, fs, path
 Dev-tools: Nodemon
 
 To recreate: 
